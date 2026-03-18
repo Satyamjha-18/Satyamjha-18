@@ -1,3 +1,6 @@
+## 💫 About Me
+Hi 👋, I'm Satyam kumar<br><br>🎓 Student | 💻 Aspiring Artificial Intelligence & Machine Learning Engineer<br>🔹 Python | Machine Learning | Python (DSA)<br><br>I enjoy solving DSA problems in Python and building Machine Learning projects using Python.
+<hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/satyam-kumar-296b23358) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satyamkumar86400@gmail.com) 
