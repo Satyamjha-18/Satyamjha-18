@@ -1,8 +1,24 @@
-## 💫 About Me
-Hi 👋, I'm Satyam kumar<br><br>🎓 Student | 💻 Aspiring Artificial Intelligence & Machine Learning Engineer<br>🔹 Python | Machine Learning | Python (DSA)<br><br>I enjoy solving DSA problems in Python and building Machine Learning projects using Python.
+# 💫 About Me
+
+Hi there! 👋 I'm **Satyam Kumar**
+
+🎓 AI & Machine Learning Student | 📊 Data Science Enthusiast | 💻 Python Developer
+
+I enjoy transforming raw data into actionable insights through **Python**, **SQL**, **Machine Learning**, and **Power BI**. I love solving algorithmic challenges, exploring data, and building end-to-end data-driven applications.
+
+### 🚀 What I'm Working On
+- 🤖 Machine Learning Projects
+- 📊 Power BI Dashboards
+- 🗄️ SQL & Database Design
+- 🐍 Python (Data Science & DSA)
+- 📈 Data Analysis & Visualization
+
+✨ *Learning something new every day and building projects that make an impact.*
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
 ### Skills
+🐍 Python • 🗄️ SQL • 📊 Power BI • 📈 Excel • 🐼 Pandas • 🔢 NumPy • 📉 Matplotlib • 🤖 Scikit-learn • 🛢️ MySQL • 🌿 Git • 📂 GitHub • 📓 Jupyter Notebook
+
 
 #### Programming Languages
 <img src="https://img.shields.io/badge/python-14354C.svg?style=for-the-badge&logo=python&logoColor=white"/> 
@@ -14,10 +30,20 @@ Hi 👋, I'm Satyam kumar<br><br>🎓 Student | 💻 Aspiring Artificial Intelli
 <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
-#### Current Focus:
-* DSA in Python.
+ ## 🚀 Currently Focus:
+
+- 📊 Data Analysis with Python (Pandas, NumPy)
+- 📈 Data Visualization (Matplotlib, Plotly, Power BI)
+- 🧠 Machine Learning Algorithms
+- 🤖 Deep Learning Basics
+- 🗄️ SQL for Data Analysis
+- 📂 Data Cleaning & Feature Engineering
+- 📉 Exploratory Data Analysis (EDA)
+- ⚡ Model Evaluation & Hyperparameter Tuning
+- 💻 Building Data Science Projects
+- 🌐 Git & GitHub for Version Control
 * Machine Learning Projects.
-* Solving LeetCode .
+* 
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
 #### 🌐 Socials:
