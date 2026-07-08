@@ -17,7 +17,7 @@ I enjoy transforming raw data into actionable insights through **Python**, **SQL
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
 ### Skills
-🐍 Python • 🗄️ SQL • 📊 Power BI • 📈 Excel • 🐼 Pandas • 🔢 NumPy • 📉 Matplotlib • 🤖 Scikit-learn • 🛢️ MySQL • 🌿 Git • 📂 GitHub • 📓 Jupyter Notebook
+
 
 
 #### Programming Languages
@@ -42,8 +42,7 @@ I enjoy transforming raw data into actionable insights through **Python**, **SQL
 - ⚡ Model Evaluation & Hyperparameter Tuning
 - 💻 Building Data Science Projects
 - 🌐 Git & GitHub for Version Control
-* Machine Learning Projects.
-* 
+  
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
 #### 🌐 Socials:
