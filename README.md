@@ -16,12 +16,6 @@ I enjoy transforming raw data into actionable insights through **Python**, **SQL
 ✨ *Learning something new every day and building projects that make an impact.*
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
-### Skills
-
-
-
-## 💻 Skills
-
 ## 💻 Skills
 
 ### 👨‍💻 Programming Languages
