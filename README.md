@@ -19,29 +19,31 @@ I enjoy transforming raw data into actionable insights through **Python**, **SQL
 ### Skills
 
 
-#### Programming Languages
-<img src="https://img.shields.io/badge/python-14354C.svg?style=for-the-badge&logo=python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/sql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-#### Data Science & Machine Learning
-<img src="https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/> 
-<img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/> 
-<img src="https://img.shields.io/badge/matplotlib-11557C.svg?style=for-the-badge"/> 
-<img src="https://img.shields.io/badge/scikit_learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/> 
-<img src="https://img.shields.io/badge/fastapi-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white"/>
+## 💻 Skills
 
-#### Data Analytics & BI
-<img src="https://img.shields.io/badge/power_bi-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black"/> 
-<img src="https://img.shields.io/badge/microsoft_excel-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+## 💻 Skills
 
-#### Databases
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+### 👨‍💻 Programming Languages
 
-#### Tools & Version Control
-<img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> 
-<img src="https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white"/> 
-<img src="https://img.shields.io/badge/jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white"/> 
-<img src="https://img.shields.io/badge/vs_code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+### 📊 Data Science & Machine Learning
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+### 📈 Data Analytics & BI
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+### 🗄️ Databases
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+### 🛠️ Tools & Version Control
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+
 
  ## 🚀 Currently Focus:
 
