@@ -19,16 +19,29 @@ I enjoy transforming raw data into actionable insights through **Python**, **SQL
 ### Skills
 
 
-
 #### Programming Languages
 <img src="https://img.shields.io/badge/python-14354C.svg?style=for-the-badge&logo=python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/sql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 #### Data Science & Machine Learning
-<img src="https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/matplotlib-35495E.svg?style=for-the-badge&logo=matplotlib&logoColor=white"/> <img src="https://img.shields.io/badge/scikit_learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/fastapi-13988a.svg?style=for-the-badge&logo=fastapi"/>
+<img src="https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/> 
+<img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/> 
+<img src="https://img.shields.io/badge/matplotlib-11557C.svg?style=for-the-badge"/> 
+<img src="https://img.shields.io/badge/scikit_learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/> 
+<img src="https://img.shields.io/badge/fastapi-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+#### Data Analytics & BI
+<img src="https://img.shields.io/badge/power_bi-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black"/> 
+<img src="https://img.shields.io/badge/microsoft_excel-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+#### Databases
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 #### Tools & Version Control
-<img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-<hr style="height:1px;border-width:0;color:gray;background-color:gray">
+<img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> 
+<img src="https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white"/> 
+<img src="https://img.shields.io/badge/jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white"/> 
+<img src="https://img.shields.io/badge/vs_code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
  ## 🚀 Currently Focus:
 
